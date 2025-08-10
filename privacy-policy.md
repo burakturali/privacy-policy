@@ -63,8 +63,8 @@ Bu gizlilik politikası güncellenebilir. Değişiklikler uygulama içinde duyur
 ## 9. İletişim
 
 Gizlilik politikamız hakkında sorularınız için:
-- E-posta: [E-posta adresinizi buraya yazın]
-- Adres: [Adresinizi buraya yazın]
+- E-posta: [burakdevelop@gmail.com]
+- Adres: [Türkiye]
 
 ## 10. Yasal Uyarı
 
