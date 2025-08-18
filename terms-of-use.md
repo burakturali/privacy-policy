@@ -93,7 +93,7 @@ Bu Şartlar Türkiye Cumhuriyeti yasalarına tabidir.
 ## 11. İletişim
 
 Sorularınız için:
-- E-posta: burak@captionary.app
+- E-posta: burakdevelop@gmail.com
 - Website: https://captionary.app
 
 ## 12. Kabul
